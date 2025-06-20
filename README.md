@@ -56,8 +56,8 @@ ReviveIQ-Insights
 
 ## How to Use
 1. Clone the repository  
-   git clone https://github.com/8421-ram/AtliQ-Hospitality-Insights.git
-
+   git clone [https://github.com/8421-ram/AtliQ-Hospitality-Insights.git
+](https://github.com/8421-ram/AtliQ-Hospitality-Insights-)
 2. Open the .pbix file in Power BI Desktop  
 3. Connect your data sources if needed (Excel, SQL)  
 4. Explore the dashboard and visuals  
