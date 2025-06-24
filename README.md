@@ -43,7 +43,7 @@ Excel and SQL – Data preparation and cleaning
 Data Modeling – Star schema with fact and dimension tables
 
 ## Live Dashboard
-Live ReviveIQ Insights Dashboard: [Insert your link here]
+Live ReviveIQ Insights Dashboard: [https://app.powerbi.com/view?r=eyJrIjoiNDVjYzUyODQtMTExZS00YjYyLTgzZTAtZjQ2OTlkYWU0YTJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 ## Project Structure
 
