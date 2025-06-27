@@ -45,10 +45,10 @@ ATLIQ Hospitality Insights, powered by AtliQ Technologies, was developed as a so
 
 ## 📂 Project Structure
 ReviveIQ-Insights
-├── Data # Raw and cleaned data files
-├── Dashboard # Power BI dashboard files (.pbix)
-├── Reports # PowerPoint and PDF exports
-├── README.md # Project documentation
+├── Data # Raw and cleaned data files\
+├── Dashboard # Power BI dashboard files (.pbix)\
+├── Reports # PowerPoint and PDF exports\
+├── README.md # Project documentation\
 └── Assets # Screenshots and images
 
 
