@@ -41,7 +41,7 @@ ATLIQ Hospitality Insights, powered by AtliQ Technologies, was developed as a so
 - **Data Modeling** – Star schema with fact and dimension tables  
 
 ## 📡 Live Dashboard
-🔗 [Live ReviveIQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDVjYzUyODQtMTExZS00YjYyLTgzZTAtZjQ2OTlkYWU0YTJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+🔗 [Live AtliQ Insights Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDVjYzUyODQtMTExZS00YjYyLTgzZTAtZjQ2OTlkYWU0YTJkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ## 📂 Project Structure
 ReviveIQ-Insights
